@@ -7,10 +7,10 @@ This application is designed to empower investors and financial enthusiasts with
 This application aims to bridge the gap between complex financial theories and practical investment strategies, making portfolio optimization accessible to everyone.
 
 #Goals:
-Empower users with data-driven insights.
+ - Empower users with data-driven insights.
 
-Simplify the portfolio construction process.
+ - Simplify the portfolio construction process.
 
-Enhance investment strategies with sentiment analysis.
+ - Enhance investment strategies with sentiment analysis.
 
-Provide reliable performance evaluations through backtesting.
+ - Provide reliable performance evaluations through backtesting.
