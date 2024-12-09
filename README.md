@@ -8,6 +8,9 @@ This application aims to bridge the gap between complex financial theories and p
 
 #Goals:
 Empower users with data-driven insights.
+
 Simplify the portfolio construction process.
+
 Enhance investment strategies with sentiment analysis.
+
 Provide reliable performance evaluations through backtesting.
